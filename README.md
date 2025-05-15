@@ -13,9 +13,11 @@
 
 ### 📁 Mes projets récents
 
+- 🎮 [Projet-Gaming-Campus](https://github.com/Mathis-Otr/Projet-Gaming-Campus) — Site vitrine responsive en HTML/CSS
 - 🧾 [Projet-Run-CSS](https://github.com/Mathis-Otr/Projet-Run-CSS) — Site vitrine responsive en HTML/CSS
-- 🧮 [Restaurant-gestion-API](https://github.com/Mathis-Otr/Restaurant-gestion-API) — Début d’une API de gestion de restaurant
-- 🎈 [Générateur de bulles](https://github.com/Mathis-Otr/Gr-ateur-de-bulle) — Petit projet visuel en JS
+- 🧮 [Restaurant-gestion-API](https://github.com/Mathis-Otr/Restaurant-gestion-API) — Début d’une API de gestion de restaurant (HTML/CSS/JAVASCRIPT)
+- 🎈 [Générateur de bulles](https://github.com/Mathis-Otr/Gr-ateur-de-bulle) — Petit projet visuel en JS (HTML/CSS/JAVASCRIPT)
+
 
 ### 📫 Me contacter
 
