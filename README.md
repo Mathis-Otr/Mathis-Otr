@@ -1,6 +1,6 @@
 # Salut, moi c'est Mathis 👋
 
-🎓 Future étudiant en informatique SIO, je me spécialise dans le développement web (front-end & back-end).
+🎓 Future étudiant en informatique, je me spécialise dans le développement web (front-end & back-end).
 
 🚀 Je suis actuellement à la recherche d'une **alternance**(2025) pour approfondir mes compétences en entreprise, tout en continuant de me former sur les technologies web modernes.
 
