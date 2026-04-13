@@ -12,7 +12,7 @@ Déploiement Industriel : Mise en place de serveurs WDS, amorçage PXE et ingén
 
 Virtualisation : Création de maquettes d'infrastructure isolées sous Oracle VirtualBox.
 
-Dev & Scripting : Automatisation PowerShell, HTML/CSS, JavaScript (React.js en cours).
+Dev & Scripting : Automatisation PowerShell, HTML/CSS, JavaScript.
 
 📁 Mes projets récents
 
