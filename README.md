@@ -1,26 +1,28 @@
-# Salut, moi c'est Mathis 👋
+Salut, moi c’est Mathis 👋
 
-🎓 Future étudiant en informatique, je me spécialise dans le développement web (front-end & back-end).
+🎓 Étudiant en BTS SIO option SISR (Systèmes d’Information aux Organisations), je me passionne pour l’administration système et le déploiement d'infrastructures réseaux.
 
-🚀 Je suis actuellement à la recherche d'une **alternance**(2025) pour approfondir mes compétences en entreprise, tout en continuant de me former sur les technologies web modernes.
+🚀 Je suis actuellement à la recherche d'une alternance (2025) pour mettre mes compétences techniques au service d'un parc informatique, tout en continuant de me spécialiser sur les environnements Windows Server.
 
-### 🔧 Compétences techniques
+🔧 Compétences techniques "Hands-on"
 
-- HTML / CSS
-- JavaScript (en cours d'apprentissage de React.js)
-- Git & GitHub
-- Projets simples en front-end (voir ci-dessous 👇)
+Administration Windows Server : Gestion d'Active Directory (AD DS), configuration DNS/DHCP et GPO.
 
-### 📁 Mes projets récents
+Déploiement Industriel : Mise en place de serveurs WDS, amorçage PXE et ingénierie d'images via DISM (conversion ESD vers WIM).
 
-- 🎮 [Projet-Gaming-Campus](https://github.com/Mathis-Otr/Projet-Gaming-Campus) — Site vitrine responsive en HTML/CSS
-- 🧾 [Projet-Run-CSS](https://github.com/Mathis-Otr/Projet-Run-CSS) — Site vitrine responsive en HTML/CSS
-- 🧮 [Restaurant-gestion-API](https://github.com/Mathis-Otr/Restaurant-gestion-API) — Début d’une API de gestion de restaurant (HTML/CSS/JAVASCRIPT)
-- 🎈 [Générateur de bulles](https://github.com/Mathis-Otr/Gr-ateur-de-bulle) — Petit projet visuel en JS (HTML/CSS/JAVASCRIPT)
+Virtualisation : Création de maquettes d'infrastructure isolées sous Oracle VirtualBox.
 
+Dev & Scripting : Automatisation PowerShell, HTML/CSS, JavaScript (React.js en cours).
 
-### 📫 Me contacter
+📁 Mes projets récents
 
-- 📧 Email : *(mathisotrante@gmail.com)*
+🏗️ Labo Active Directory — Architecture complète Serveur-Client avec gestion d'Unités d'Organisation.
 
-Merci de visiter mon profil ! N'hésite pas à me contacter pour toute opportunité, collaboration ou conseil 🙌
+💿 Pipeline de déploiement WDS — Automatisation de l'installation de postes Windows 10 Pro via le réseau.
+
+🧮 Restaurant-gestion-API — Conception d'une API REST (HTML/CSS/JS).
+
+📫 Me contacter
+📧 Email : mathisotrante@gmail.com
+
+Motivé, autonome et déjà opérationnel sur les bases de l'administration système, je suis prêt à relever vos défis techniques ! 🙌
