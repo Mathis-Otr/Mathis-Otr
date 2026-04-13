@@ -2,7 +2,7 @@ Salut, moi c’est Mathis 👋
 
 🎓 Étudiant en BTS SIO option SISR (Systèmes d’Information aux Organisations), je me passionne pour l’administration système et le déploiement d'infrastructures réseaux.
 
-🚀 Je suis actuellement à la recherche d'une alternance (2025) pour mettre mes compétences techniques au service d'un parc informatique, tout en continuant de me spécialiser sur les environnements Windows Server.
+🚀 Je suis actuellement à la recherche d'une alternance (2026) pour mettre mes compétences techniques au service d'un parc informatique, tout en continuant de me spécialiser sur les environnements Windows Server.
 
 🔧 Compétences techniques "Hands-on"
 
