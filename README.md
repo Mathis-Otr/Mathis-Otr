@@ -1,8 +1,11 @@
-Salut, moi c’est Mathis 👋
+Salut, moi c'est Mathis 👋
 
-🎓 Étudiant en BTS SIO option SISR (Systèmes d’Information aux Organisations), je me passionne pour l’administration système et le déploiement d'infrastructures réseaux.
+🎓 En formation Technicien Informatique (RNCP),
+je me passionne pour l'administration système et le déploiement d'infrastructures réseaux.
 
-🚀 Je suis actuellement à la recherche d'une alternance (2026) pour mettre mes compétences techniques au service d'un parc informatique, tout en continuant de me spécialiser sur les environnements Windows Server.
+🚀 Je suis actuellement à la recherche d'un stage (2027) ou d'une alternance dispo dès aujourd'hui pour mettre mes compétences
+techniques au service d'un parc informatique, tout en continuant de me spécialiser
+sur les environnements Windows Server.
 
 🔧 Compétences techniques "Hands-on"
 
@@ -12,17 +15,21 @@ Déploiement Industriel : Mise en place de serveurs WDS, amorçage PXE et ingén
 
 Virtualisation : Création de maquettes d'infrastructure isolées sous Oracle VirtualBox.
 
+Hardware : Sélection et configuration de postes professionnels (CAO/DAO, AutoCAD).
+
 Dev & Scripting : Automatisation PowerShell, HTML/CSS, JavaScript.
 
 📁 Mes projets récents
 
-🏗️ Labo Active Directory — Architecture complète Serveur-Client avec gestion d'Unités d'Organisation.
+🖥️ Labo Active Directory — Architecture complète Serveur-Client avec gestion d'Unités d'Organisation.
 
-💿 Pipeline de déploiement WDS — Automatisation de l'installation de postes Windows 10 Pro via le réseau.
+🌐 Pipeline de déploiement WDS — Automatisation de l'installation de postes Windows 10 Pro via le réseau.
 
-🧮 Restaurant-gestion-API — Conception d'une API REST (HTML/CSS/JS).
+🍽️ Restaurant-gestion-API — Conception d'une API REST (HTML/CSS/JS).
 
-📫 Me contacter
-📧 Email : mathisotrante@gmail.com
+💻 Formation TI — Configuration PC professionnelle CAO/DAO sous AutoCAD (budget 2000€ HT).
 
-Motivé, autonome et déjà opérationnel sur les bases de l'administration système, je suis prêt à relever vos défis techniques ! 🙌
+📬 Me contacter 👉 Email : mathisotrante@gmail.com
+
+Motivé, autonome et déjà opérationnel sur les bases de l'administration système,
+je suis prêt à relever vos défis techniques ! 🤝
