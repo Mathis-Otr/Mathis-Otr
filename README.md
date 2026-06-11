@@ -25,8 +25,6 @@ Dev & Scripting : Automatisation PowerShell, HTML/CSS, JavaScript.
 
 🌐 Pipeline de déploiement WDS — Automatisation de l'installation de postes Windows 10 Pro via le réseau.
 
-🍽️ Restaurant-gestion-API — Conception d'une API REST (HTML/CSS/JS).
-
 💻 Formation TI — Configuration PC professionnelle CAO/DAO sous AutoCAD (budget 2000€ HT).
 
 📬 Me contacter 👉 Email : mathisotrante@gmail.com
